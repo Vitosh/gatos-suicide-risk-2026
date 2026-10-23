@@ -71,8 +71,7 @@ The composite is `0.7 × Subtask 1 + 0.3 × Subtask 2`, equivalent to 40% risk w
 The 0.7978 result includes human review informed by public leaderboard feedback. It does not measure automatic performance on unseen posts. Separate held-out component scores were not available to us.
 
 ![Public leaderboard showing GATos in first place with a composite score of 0.7978](pics/leaderboard-last.PNG)
-
-Public leaderboard snapshot from the [competition website](https://www.bigdatacompetition.cn/).
+Public leaderboard snapshot from the [competition website](https://www.bigdatacompetition.cn/), accessed on 23 October 2026.
 
 ## Data
 
