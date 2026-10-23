@@ -1,0 +1,14 @@
+# Install in a newly deleted/recreated Colab 2026.04 A100 runtime.
+torch==2.10.0
+torchvision==0.25.0
+torchaudio==2.10.0
+transformers==4.57.6
+tokenizers==0.22.2
+vllm==0.19.1
+huggingface_hub==0.34.4
+# vLLM 0.19.1 pins numba 0.61.2, which requires NumPy < 2.3.
+numpy==2.2.6
+pandas==3.0.2
+openpyxl==3.1.5
+PyYAML==6.0.2
+protobuf==6.33.6
