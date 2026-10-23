@@ -11,7 +11,7 @@ Vitosh K. Doynov, Ensiye Kiyamousavi, and Boris Kraychev
 
 ![GATos team name and our cat inspiration](pics/gatos-name.PNG)
 
-We're from GATE, and we like cats. GATos seemed like a good fit: *gátos* (γάτος) means a male cat in Greek, and *gatos* means cats in Spanish.<br>
+We're from GATE, and we like cats. GATos seemed like a good fit: *gátos* (γάτος) means a cat in Greek and in Spanish.<br>
 😸🐱😻
 
 ## The task
