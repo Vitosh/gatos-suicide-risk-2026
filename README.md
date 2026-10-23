@@ -16,7 +16,7 @@ We're from GATE, and we like cats. GATos seemed like a good fit: *gátos* (γά�
 
 ## The task
 
-Given a Reddit post from [SuicideWatch](https://www.reddit.com/r/SuicideWatch), the system predicts a risk level (`Indicator`, `Ideation`, `Behavior`, or `Attempt`), extracts phrases supporting that prediction, and identifies the risk and protective factors mentioned in the text. There are 24 possible factor labels, including mental health issues, hopelessness, social support, and coping strategies. Evidence phrases are copied from the input post.
+Given a Reddit post from [r/SuicideWatch](https://www.reddit.com/r/SuicideWatch), the system predicts a risk level (`Indicator`, `Ideation`, `Behavior`, or `Attempt`), extracts phrases supporting that prediction, and identifies the risk and protective factors mentioned in the text. There are 24 possible factor labels, including mental health issues, hopelessness, social support, and coping strategies. Evidence phrases are copied from the input post.
 
 ## Our approach
 
