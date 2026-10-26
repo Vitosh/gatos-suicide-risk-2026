@@ -11,8 +11,8 @@ Vitosh K. Doynov, Ensiye Kiyamousavi, and Boris Kraychev
 
 ![GATos team name and our cat inspiration](pics/gatos-name.PNG)
 
-We're from GATE, and we like cats. GATos seemed like a good fit: *gátos* (γάτος) means a cat in Greek and in Spanish.<br>
-😸🐱😻
+We are from GATE, and we like cats. GATos seemed like a good fit: *gátos* (γάτος) means a cat in Greek and in Spanish.<br>
+😸🐱😻🐈😹😽😼
 
 ## The task
 
@@ -79,7 +79,7 @@ The dataset was compiled by The Hong Kong Polytechnic University from Reddit pos
 
 Researchers should obtain dataset access directly from the organizers under the [Data Usage Agreement](https://www.bigdatacompetition.cn/). The agreement permits non-commercial educational and research use by authorized recipients and requires prior written consent to transfer any part of the dataset to others. The name `public-replay` refers to the public leaderboard, not to permission to redistribute its data.
 
-This work has not been validated for clinical use.
+This work has **not** been validated for clinical use.
 
 ## Acknowledgement
 
